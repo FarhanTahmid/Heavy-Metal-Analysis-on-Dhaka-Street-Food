@@ -1,0 +1,26 @@
+PCA ANALYSIS SUMMARY - Fuchka DATASET
+==================================================
+
+Number of Variables: 11
+Number of Samples: 42
+Selected Components: 4
+Total Variance Explained: 81.7%
+
+COMPONENT INTERPRETATIONS:
+------------------------------
+RC1: Mixed Sources
+     Variance: 39.8%
+     Eigenvalue: 4.485
+
+RC2: Mixed Sources
+     Variance: 17.5%
+     Eigenvalue: 1.973
+
+RC3: Heavy Metals/Toxicity Factor
+     Variance: 15.1%
+     Eigenvalue: 1.698
+
+RC4: Mixed Sources
+     Variance: 9.4%
+     Eigenvalue: 1.055
+

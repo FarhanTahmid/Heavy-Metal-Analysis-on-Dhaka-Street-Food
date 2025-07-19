@@ -1,0 +1,30 @@
+PCA ANALYSIS SUMMARY - Tamarind DATASET
+==================================================
+
+Number of Variables: 13
+Number of Samples: 42
+Selected Components: 5
+Total Variance Explained: 85.0%
+
+COMPONENT INTERPRETATIONS:
+------------------------------
+RC1: Natural/Crustal Elements Factor
+     Variance: 38.5%
+     Eigenvalue: 5.130
+
+RC2: Transition Metals Factor
+     Variance: 20.6%
+     Eigenvalue: 2.748
+
+RC3: Lead Contamination Factor
+     Variance: 10.1%
+     Eigenvalue: 1.343
+
+RC4: Transition Metals Factor
+     Variance: 7.9%
+     Eigenvalue: 1.058
+
+RC5: Mixed Sources
+     Variance: 7.8%
+     Eigenvalue: 1.041
+
